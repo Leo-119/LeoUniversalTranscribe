@@ -1,0 +1,5 @@
+mlx-whisper==0.4.3
+numpy==2.5.3
+pyannote-audio==4.0.7
+silero-vad==6.2.3
+torch==2.14.1
